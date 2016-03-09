@@ -1,0 +1,2 @@
+javac *.java
+java WebStats -pages 20 -path 2 someURL
